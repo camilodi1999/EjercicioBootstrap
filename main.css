@@ -1,0 +1,45 @@
+
+div{
+    text-align: center;
+}
+
+
+#banner{
+    background-color: rgb(104,76,60) ;
+    vertical-align:middle;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+}
+
+#topM{
+    background-color: rgb(200,148,132) ;
+}
+
+#content-ab{
+    background-color: rgba(242,242,242,255);
+    padding-top: 3.5%;
+    padding-bottom: 3.5%;
+}
+
+#content-c{
+    padding-top: 3.5%;
+    padding-bottom: 3.5%;
+}
+
+#imp{
+    background-color: rgba(197,105,122,255) ;
+}
+
+#par{
+    background-color: rgba(0,162,182,255) ;
+}
+
+#left-menu{
+    background-color:rgba(249,154,62,255);
+}
+
+#footer{
+    background-color: rgb(104,76,60) ;
+    color: white;
+}
